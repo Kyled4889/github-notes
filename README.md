@@ -5,4 +5,4 @@
 
 <p3> Respository: repository or repo is a project which can have multiple files connected to it which you can name your files do anything you please on it >/p3>
   
-<p4> Commit: acts like a save which saves your work that you have made on your repo</p4>
+<p4> Commit:acts like a save which saves your work that you have made on your repo</p4>
